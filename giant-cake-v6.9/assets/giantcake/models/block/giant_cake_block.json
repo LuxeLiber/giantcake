@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "giantcake:block/bottomcake",
+    "up": "giantcake:block/topcake",
+    "north": "giantcake:block/sidecake",
+    "east": "giantcake:block/sidecake",
+    "south": "giantcake:block/sidecake",
+    "west": "giantcake:block/sidecake",
+    "particle": "giantcake:block/bottomcake"
+  },
+  "render_type": "solid"
+}

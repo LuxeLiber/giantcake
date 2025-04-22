@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="Not specified"
+
+[[mods]]
+modId="giantcake"
+version="6.9."
+displayName="GiantCake"
+displayURL="https://giantcake.net"
+logoFile="logo.png"
+credits="I mod mejkink"
+authors="bdbl"
+description="Eat My Giant Cake"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.giantcake]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
